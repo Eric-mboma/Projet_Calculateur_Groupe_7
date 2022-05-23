@@ -10,15 +10,15 @@ le cas qui réfère à notre groupe, nous avions travaillé sur le service du Re
 Putty, Wireshark, LinuxNetfilter et OpenLDAP.
 le gestionnaire de paquet utilisé c'est Dpkg qui installe les fichiers debian que contient le paquet
 le groupe est composé de:
-	MBOMA KAKESE ERIC
-	BITOTA KALONJI BENEDICTE
-	NGUAHELE TONGO EMMANUEL
-	CIMUANGA KAHASHA JOSUE
-	MUKENDI TSHIBINDI DANIEL
-	MUGISHO SHIBENDA JOEL
-	KIBALA KAHUNGU METUSCHELAH
-	KIBALA INKUMBWA BONARD
-	SINDA GRADI SAMUEL
+	MBOMA KAKESE ERIC,
+	BITOTA KALONJI BENEDICTE,
+	NGUAHELE TONGO EMMANUEL,
+	CIMUANGA KAHASHA JOSUE,
+	MUKENDI TSHIBINDI DANIEL,
+	MUGISHO SHIBENDA JOEL,
+	KIBALA KAHUNGU METUSCHELAH,
+	KIBALA INKUMBWA BONARD,
+	SINDA GRADI SAMUEL,
 	TAMPWO OSIEM GAIUS
 
 NOTA: Ce groupe est constituer des ingenieurs systèmes et reséau, devellopeur système et Assembleur; à ce jours nous avons un projet
